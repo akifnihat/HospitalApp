@@ -1,0 +1,7 @@
+C:\Users\akifst\source\repos\Hospital App\Hospital App\obj\Debug\net8.0\Hospital App.csproj.AssemblyReference.cache
+C:\Users\akifst\source\repos\Hospital App\Hospital App\obj\Debug\net8.0\Hospital App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifst\source\repos\Hospital App\Hospital App\obj\Debug\net8.0\Hospital App.AssemblyInfoInputs.cache
+C:\Users\akifst\source\repos\Hospital App\Hospital App\obj\Debug\net8.0\Hospital App.AssemblyInfo.cs
+C:\Users\akifst\source\repos\Hospital App\Hospital App\obj\Debug\net8.0\Hospital App.csproj.CoreCompileInputs.cache
+C:\Users\akifst\source\repos\Hospital App\Hospital App\obj\Debug\net8.0\Hospital App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akifst\source\repos\Hospital App\Hospital App\obj\Debug\net8.0\Hospital App.MvcApplicationPartsAssemblyInfo.cache
